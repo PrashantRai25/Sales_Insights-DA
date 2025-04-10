@@ -1,4 +1,4 @@
-# Sales_Insights-DA
+
 ## Sales Insights Data Analysis Project
 
 ### Instructions to setup mysql on your local computer
